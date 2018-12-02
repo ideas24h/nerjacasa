@@ -5,7 +5,7 @@
     "categories": [],
     "images": [],
     "thumbnailImage": "",
-    "actualPrice": "",
+    "Week Rental": "",
     "comparePrice": "",
     "inStock": true,
     "options": {},

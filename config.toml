@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Awesome Lighting Inc."
+title = "Nerja Casa"
 theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = ""

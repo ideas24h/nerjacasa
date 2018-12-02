@@ -2,7 +2,7 @@
     "title": "Azure Blue De Stijl Inspired Bedside Retro Light",
     "date": "2018-05-10T08:02:34+05:30",
     "tags": ["Wall Light"],
-    "categories": ["Wall Light"],
+    "categories": ["Nerja"],
     "images" : ["img/azure-blue-de-stijl-bedside-retro-light-with-black-ring/1.jpg"],
     "thumbnailImage": "img/azure-blue-de-stijl-bedside-retro-light-with-black-ring/thumbnail.jpg",
     "actualPrice": null,
