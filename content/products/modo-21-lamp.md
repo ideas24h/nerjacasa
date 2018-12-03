@@ -1,23 +1,27 @@
 {
-    "title": "Modo 21 Lamp",
+    "title": "Villa Pelae",
     "date": "2018-05-12T15:54:25+05:30",
-    "tags": ["chandeliers"],
-    "categories": ["chandeliers"],
-    "images": ["img/modo-21-lamp/1.jpg", "img/modo-21-lamp/2.jpg", "img/modo-21-lamp/2.jpg"],
-    "thumbnailImage": "img/modo-21-lamp/thumbnail.jpg",
-    "actualPrice": "₹ 85,000.00",
+    "tags": ["Frigiliana"],
+    "categories": ["Villa"],
+    "images": ["img/BOGAMBILLA-CESPED.JPG"],
+    "thumbnailImage": "img/BOGAMBILLA-CESPED.JPG",
+    "actualPrice": "800 € week",
     "comparePrice": null,
     "inStock": true,
     "options": {},
     "variants": []
 }
 
-A mid-century modern chandelier which in inspired by the hub and spoke design. It has a modern take on a retro industrial style of lighting. The incandescent bulbs in the smoky glass globes glow beautifully when turned on. This chandelier offers warm ambient lighting and will effortless enhance your home decor. It is a luxury lighting fixture for your living room or dining room. Buy Luxury Chandeliers Online in India at best prices. Free Shipping.
+A stunning 4 bedroom (up to 7 bedrooms available) detached villa with private pool, situated at the outskirts of Nerja (and 6 km from Frigiliana), easy access and outstanding sea and mountain views. Close to local amenities shops, bars and restaurants. 
 
-Total Fixture Dimensions (in inches): D1235xH81cm
+The spacious outside area is divided between swimming pool with sun loungers and parasols, barbecue area, outdoors dining area and it’s surrounded by amazing palm trees and beautiful plants. 
 
-Material: Metal & Glass
+Entertainment: billiards and ping-pong table available in the property
 
-Colour: Black & Grey
+Spacious living room, with reclinable sofa, dining area, flat screen tv and satellite channels.
 
-Bulb Holder: E14
+The Kitchen is fully equipped and comes with washing machine, dishwasher, oven.
+
+Maximum occupancy for the 4 bedroom villa: 8 people
+
+This villa is also available for rent as a 7 bedroom, with a maximum occupancy of 14 people.
