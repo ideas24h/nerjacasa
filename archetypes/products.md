@@ -6,6 +6,7 @@
     "images": [],
     "thumbnailImage": "",
     "actualPrice": "",
+    "bed": "",
     "comparePrice": "",
     "inStock": true,
     "options": {},

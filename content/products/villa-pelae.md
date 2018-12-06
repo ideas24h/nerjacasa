@@ -5,14 +5,14 @@
     "categories": ["Villa"],
     "images": ["img/BOGAMBILLA-CESPED.JPG"],
     "thumbnailImage": "img/BOGAMBILLA-CESPED.JPG",
-    "actualPrice": "800 € week",
+    "actualPrice": "700 € week",
     "comparePrice": null,
     "inStock": true,
     "options": {},
     "variants": []
 }
 
-A stunning 4 bedroom (up to 7 bedrooms available) detached villa with private pool, situated at the outskirts of Nerja (and 6 km from Frigiliana), easy access and outstanding sea and mountain views. Close to local amenities shops, bars and restaurants. 
+A stunning 4 bedrooms (up to 7 bedrooms available) detached villa with private pool, situated at the outskirts of Nerja (and 6 km from Frigiliana), easy access and outstanding sea and mountain views. Close to local amenities shops, bars and restaurants. 
 
 The spacious outside area is divided between swimming pool with sun loungers and parasols, barbecue area, outdoors dining area and it’s surrounded by amazing palm trees and beautiful plants. 
 

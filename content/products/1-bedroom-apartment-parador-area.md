@@ -5,14 +5,15 @@
     "categories": ["Floor Light"],
     "images": ["img/1-bedroom-apartment-parador-area/bedroom.jpg", "img/1-bedroom-apartment-parador-area/bedroom-lamp-mirror.jpg"],
     "thumbnailImage": "img/1-bedroom-apartment-parador-area/bedroom.jpg",
-    "actualPrice": "400 week",
+    "actualPrice": "400 € week - 900€ month",
+    "bedroom": "1",
     "comparePrice": null,
     "inStock": true,
     "options": {},
     "variants": []
 }
 
-##Just steps from the beach, quiet ho
+## Just steps from the beach.
 Nerja
 
 - 1 bedroom
