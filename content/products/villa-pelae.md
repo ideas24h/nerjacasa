@@ -6,6 +6,8 @@
     "images": ["img/BOGAMBILLA-CESPED.JPG"],
     "thumbnailImage": "img/BOGAMBILLA-CESPED.JPG",
     "actualPrice": "700 € week",
+    "bedroom": "7",
+    "bathroom": "3",
     "comparePrice": null,
     "inStock": true,
     "options": {},

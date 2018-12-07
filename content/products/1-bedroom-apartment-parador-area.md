@@ -2,11 +2,11 @@
     "title": "1 bedroom apartment in Parador Area",
     "date": "2018-05-12T15:48:00+05:30",
     "tags": ["Floor Light"],
-    "categories": ["Floor Light"],
+    "categories": ["Nerja"],
     "images": ["img/1-bedroom-apartment-parador-area/bedroom.jpg", "img/1-bedroom-apartment-parador-area/bedroom-lamp-mirror.jpg"],
     "thumbnailImage": "img/1-bedroom-apartment-parador-area/bedroom.jpg",
-    "actualPrice": "400 € week - 900€ month",
-    "bedroom": "1",
+    "weekPrice": "400 €",
+    "bedroom:": "1",
     "comparePrice": null,
     "inStock": true,
     "options": {},
@@ -16,7 +16,6 @@
 ## Just steps from the beach.
 Nerja
 
-- 1 bedroom
 - 1 bed
 - 1 bath
 

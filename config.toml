@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "Nerja Casa"
-theme = "hugo-shopping-product-catalogue-simple"
+theme = "nerjacasa-theme"
 [Params]
 description = ""
