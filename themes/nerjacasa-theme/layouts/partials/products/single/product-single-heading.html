@@ -2,8 +2,7 @@
 <p>
     <span class="product-compare-price" style="text-decoration: line-through">{{ .Params.comparePrice }}</span>
     <span class="product-actual-price">Price: {{ .Params.weekPrice }} week</span></br>
-    <span class="product-actual-price">Bedroom: {{ .Params.bedroom }}</span>
-    <span class="product-actual-price">Bathroom: {{ .Params.bathroom }}</span>
+    <span class="product-actual-price">Bedroom: {{ .Params.bed }}</span>
     <span class="product-not-in-stock" class="font-weight-bold" {{ if .Params.inStock }} style="display:none" {{end}}>— Sold Out</span>
 </p>
 <p>
